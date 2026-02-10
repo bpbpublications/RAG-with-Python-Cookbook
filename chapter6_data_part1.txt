@@ -1,0 +1,6 @@
+
+Artificial Intelligence (AI) is the ability of machines to simulate human intelligence. 
+It includes processes such as learning, reasoning, and problem-solving. 
+The primary goal of AI is to create systems that can perform tasks that normally 
+require human intelligence, such as visual perception, speech recognition, 
+decision-making, and language translation.

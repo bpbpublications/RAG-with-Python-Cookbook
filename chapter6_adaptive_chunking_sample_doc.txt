@@ -1,0 +1,24 @@
+Artificial Intelligence is transforming industries at an unprecedented pace. 
+In healthcare, AI assists in diagnosis, predictive analytics, and personalized medicine. 
+In finance, it powers fraud detection, risk management, and automated trading systems. 
+In education, AI enables personalized learning experiences and adaptive testing.
+
+Key applications of AI:
+- AI in Healthcare: diagnosis support, drug discovery, patient monitoring
+- AI in Finance: fraud detection, robo-advisors, risk modeling
+- AI in Education: adaptive learning, plagiarism detection, grading automation
+
+def add_numbers(a, b):
+    return a + b
+
+class Student:
+    def __init__(self, name, grade):
+        self.name = name
+        self.grade = grade
+
+    def promote(self):
+        self.grade += 1
+        return f"{self.name} promoted to grade {self.grade}"
+
+Artificial Intelligence will continue to reshape industries by making processes more efficient, 
+reducing costs, and creating new opportunities. Ethical challenges, however, remain important to address.

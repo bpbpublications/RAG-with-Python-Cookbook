@@ -1,0 +1,1 @@
+Retrieval Augmented Generation (RAG) is an architecture that combines the ability of large language models (LLMs) with a retrieval system to enhance the factual accuracy, contextual relevance, and quality of generated response against the query raised by user to a RAG system.

@@ -1,0 +1,22 @@
+Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, 
+especially computer systems. These processes include learning, reasoning, and self-correction. 
+Applications of AI include expert systems, speech recognition, and computer vision.
+
+Machine Learning (ML) is a subset of AI that focuses on the development of algorithms that 
+allow computers to learn from and make predictions based on data. ML algorithms improve 
+automatically through experience. It is widely used in spam detection, recommendation engines, 
+and predictive analytics.
+
+Deep Learning is a specialized branch of machine learning that uses neural networks with many 
+layers (deep architectures). It is especially powerful for tasks like image recognition, 
+natural language processing, and speech recognition.
+
+Natural Language Processing (NLP) is the ability of a machine to understand, interpret, and 
+generate human language. Common applications include chatbots, machine translation, and 
+sentiment analysis.
+
+Applications of Machine Learning and AI are diverse: 
+- Healthcare: AI helps in disease detection, drug discovery, and personalized medicine. 
+- Finance: Fraud detection, risk assessment, and automated trading. 
+- Retail: Personalized recommendations, inventory management, and customer support chatbots. 
+- Autonomous Vehicles: Self-driving cars rely on AI for navigation, object detection, and decision-making.

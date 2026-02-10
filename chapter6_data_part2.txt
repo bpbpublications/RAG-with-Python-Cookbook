@@ -1,0 +1,7 @@
+Machine Learning (ML) is a subset of Artificial Intelligence that enables 
+systems to automatically learn and improve from experience without being explicitly programmed. 
+It relies on algorithms and statistical models to analyze data and make predictions. 
+
+Deep Learning is a specialized branch of ML that uses artificial neural networks 
+with multiple layers. Deep Learning excels in image recognition, speech processing, 
+and natural language understanding.

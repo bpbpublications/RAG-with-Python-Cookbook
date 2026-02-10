@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Pankaj Kumar",
+    "email": "pankaj@example.com",
+    "interests": ["reading", "hiking", "cooking"]
+  },
+  {
+    "id": 2,
+    "name": "Pratap Singh",
+    "email": "pratap@example.com",
+    "interests": ["gaming", "cycling"]
+  },
+  {
+    "id": 3,
+    "name": "Neeraj Kumar",
+    "email": "neeraj@example.com",
+    "interests": ["photography", "travel", "music"]
+  }
+]

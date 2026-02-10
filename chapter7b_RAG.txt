@@ -1,0 +1,28 @@
+Retrieval-Augmented Generation (RAG) is an AI architecture that combines a retriever with a generator. 
+The retriever searches a knowledge base or documents to find relevant information. 
+The generator, usually a large language model (LLM), uses that retrieved information to produce accurate, context-aware responses. 
+This approach helps reduce hallucinations and ensures answers are grounded in real data.
+
+RAG was first proposed in 2020 as a method to improve the factual correctness of LLM outputs. 
+Early implementations used FAISS for fast vector-based retrieval of documents. 
+The combination of retrieval and generation enables multi-step reasoning and allows models to answer queries about topics not directly seen during training.
+
+Key advantages of RAG include:
+- Improved accuracy by grounding responses in retrieved documents.
+- Better handling of complex or multi-part queries.
+- Reduced hallucination compared to standard LLM generation.
+
+Historical AI milestones relevant to RAG:
+- 1956: The term "Artificial Intelligence" is coined at the Dartmouth Conference.
+- 1966: ELIZA, an early natural language processing program, is developed.
+- 1980s: Expert systems gain popularity in AI research.
+- 1997: IBM's Deep Blue defeats world chess champion Garry Kasparov.
+- 2012: Deep learning breakthroughs with convolutional neural networks on ImageNet.
+- 2018: Transformer models (like BERT and GPT) introduce large-scale pretraining.
+- 2020: RAG methods are proposed to combine retrieval and generation for improved LLM outputs.
+- 2023: Multi-vector retrieval and hybrid dense-sparse search techniques enhance RAG pipelines.
+
+RAG is widely used in:
+- Knowledge-grounded chatbots
+- Question answering systems
+- Summarization tools with external context

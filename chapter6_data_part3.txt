@@ -1,0 +1,7 @@
+AI and Machine Learning have transformed multiple industries. 
+In healthcare, AI assists in disease diagnosis and personalized treatment. 
+In finance, AI is used for fraud detection, automated trading, and credit scoring. 
+In retail, AI powers recommendation engines and chatbots for customer support. 
+Autonomous vehicles rely on AI for navigation, object detection, and decision-making. 
+Natural Language Processing (NLP) enables applications like machine translation 
+and sentiment analysis.
