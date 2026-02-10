@@ -1,0 +1,1 @@
+Traditional generative models rely solely on internal parameters for producing responses, which limits their ability to provide up-to-date or domain-specific knowledge. RAG mitigates this by augmenting the generation process with real-time retrieval from external knowledge sources. 

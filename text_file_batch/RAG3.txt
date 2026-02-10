@@ -1,0 +1,1 @@
+Traditional generative models laid the foundation for today’s LLMs. They helped us understand how to model processes represent knowledge, user input and generate data. However, they are now mostly replaced or augmented by deep learning-based transformer models, which offer greater accuracy, coherence, and scalability.
